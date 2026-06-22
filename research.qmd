@@ -1,0 +1,34 @@
+# Research
+
+This page highlights research projects involving biostatistics, clinical research, statistical modeling, and applied data analysis.
+
+::: {.research-grid}
+
+::: {.research-card}
+## The Effect of Cervical Disc Replacement Fixation Features on Device Stability
+
+**Role:** Biostatistics Research Intern  
+**Tools:** R, RStudio, Excel  
+**Focus:** Clinical research, medical devices, statistical analysis
+
+Analyzed cervical disc replacement devices to evaluate how fixation features and device attributes contributed to stability and patient-related outcomes. This work involved data collection, statistical analysis, visualization, and interpretation of complex medical data.
+
+**Methods used:** regression, t-tests, ANOVA, Taguchi’s method, data visualization
+
+**Outcome:** Co-authored a manuscript submitted to *The Spine Journal*.
+:::
+
+::: {.research-card}
+## Effect of Median Age on Total Health Spending
+
+**Tools:** R, RStudio, GitHub  
+**Focus:** Regression analysis, health economics, statistical modeling
+
+Collaborated on a statistical analysis examining how median age relates to total health spending across countries. The project used regression modeling to explore population-level trends in healthcare expenditures.
+
+**Methods used:** regression analysis, data visualization, statistical communication
+
+[View GitHub Repository](https://github.com/dle-79/stat331-final-project)
+:::
+
+:::

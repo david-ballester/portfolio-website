@@ -1,0 +1,86 @@
+# Resume
+
+A brief overview of my education, research experience, technical skills, awards, and leadership experience.
+
+[Download Full CV](David_Ballester_CV.pdf){.btn .btn-primary}
+
+## Education
+
+::: {.cv-card}
+### California Polytechnic State University, San Luis Obispo
+
+**M.S. Business Analytics**  
+Expected June 2026
+
+**Relevant Coursework**
+
+- Strategic Marketing Analytics
+- Essential Statistics for Business Analytics
+- Econometrics and Data Analysis
+- Computing and Machine Learning for Business Analytics
+- Data Analytics and Mining for Business
+- Data Management for Business Analytics
+- Collaborative Industry Project
+
+**B.S. Statistics**  
+June 2025
+
+**Minor:** Actuarial Preparation
+
+**Relevant Coursework**
+
+- Design and Analysis of Experiments
+- Statistical Computing with R
+- Statistical Computing with SAS
+- Statistical Communication
+- Fundamentals of Computer Science
+- Financial Accounting
+- Fundamentals of Corporate Finance
+:::
+
+## Research Experience
+
+::: {.cv-card}
+### Biostatistician Intern  
+**Luskin Orthopedic Institute**  
+June 2024 – March 2025
+
+- Collaborated with researchers and physicians from UCLA and USC on clinical research projects.
+- Conducted data collection, visualization, and statistical analysis for medical device studies.
+- Applied regression, t-tests, ANOVA, and Taguchi’s method.
+- Contributed to a manuscript submitted to *The Spine Journal*.
+:::
+
+## Technical Skills
+
+::: {.skill-list}
+`R` `Python` `SQL` `SAS` `JMP` `Excel` `GitHub` `Machine Learning` `Statistical Modeling` `Data Visualization`
+:::
+
+## Awards & Honors
+
+::: {.cv-card}
+- Dean’s List Recipient
+- National Hispanic Merit Scholar
+- SCP MSBA Merit Scholarship
+- Brett and Leslie Eldridge Award
+- Additional awards placeholder
+:::
+
+## Leadership & Service
+
+::: {.cv-card}
+### Sigma Phi Epsilon, California Tau Chapter
+
+- Founder
+- Risk Management Chair
+- Financial Executive
+
+### Graduate Statistics Tutor
+
+Selected by faculty to support graduate students in statistics coursework.
+
+### Professional Development Workshops
+
+Organized workshops for Business Analytics graduate students.
+:::

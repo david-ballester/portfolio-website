@@ -1,0 +1,24 @@
+::: {.hero}
+::: {.hero-image}
+![](images/profile.jpeg)
+:::
+
+::: {.hero-text}
+# David Ballester
+
+### M.S. Business Analytics | B.S. Statistics
+
+Research • Data Science • Machine Learning
+
+I am a statistician and business analytics graduate with interests in
+research, machine learning, statistical modeling, and data driven
+decision making.
+
+My work focuses on applying quantitative methods, programming, and modern
+data science techniques to answer meaningful research and business questions and solve
+real world problems.
+
+Explore my research projects, technical work, and professional experience
+through the links above.
+:::
+:::

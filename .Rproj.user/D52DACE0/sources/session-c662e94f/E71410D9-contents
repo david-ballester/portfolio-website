@@ -1,0 +1,51 @@
+# Projects
+
+This page highlights technical, analytical, and industry projects involving data science, machine learning, statistical modeling, and business analytics.
+
+::: {.research-grid}
+
+::: {.research-card}
+## Oracle Industry Project
+
+**Organization:** Oracle
+
+**Status:** In Progress
+
+Industry-sponsored project completed as part of the Cal Poly M.S. Business Analytics program.
+
+*Project description coming soon.*
+:::
+
+::: {.research-card}
+## NVIDIA Industry Project
+
+**Organization:** NVIDIA
+
+**Status:** In Progress
+
+Industry-sponsored project completed as part of the Cal Poly M.S. Business Analytics program.
+
+*Project description coming soon.*
+:::
+
+::: {.research-card}
+## Healthcare Spending Analysis
+
+**Tools:** R, RStudio, GitHub
+
+Statistical modeling project analyzing the relationship between median age and healthcare spending across countries.
+
+**Skills:** Regression analysis, data visualization, statistical communication
+
+**GitHub:** https://github.com/dle-79/stat331-final-project
+:::
+
+::: {.research-card}
+## Future Project
+
+**Status:** Placeholder
+
+Additional machine learning, data science, and analytics projects will be added here.
+:::
+
+:::

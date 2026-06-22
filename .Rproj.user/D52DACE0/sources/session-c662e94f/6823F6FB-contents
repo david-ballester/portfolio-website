@@ -1,0 +1,84 @@
+.hero {
+  text-align: center;
+  max-width: 1000px;
+  margin: 5rem auto 0 auto;
+}
+
+.hero-image img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 3rem auto;
+}
+
+.hero-text h1 {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text h3 {
+  color: #2c7be5;
+  margin-bottom: 1.5rem;
+}
+
+.hero-text p {
+  font-size: 1.25rem;
+  line-height: 1.7;
+  max-width: 900px;
+  margin: 1.5rem auto;
+}
+
+.research-grid {
+  display: grid;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.research-card {
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  padding: 2rem;
+  background-color: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.research-card h2 {
+  margin-top: 0;
+  color: #2c7be5;
+}
+
+.research-card strong {
+  color: #333333;
+}
+
+.cv-card {
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  padding: 1.75rem;
+  margin: 1.5rem 0;
+  background-color: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.cv-card h3 {
+  margin-top: 0;
+  color: #2c7be5;
+}
+
+.skill-list {
+  line-height: 2.4;
+  margin: 1.5rem 0;
+}
+
+.skill-list code {
+  background-color: #eef5ff;
+  color: #1f5fbf;
+  border: 1px solid #c9ddff;
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  margin: 0.25rem;
+  display: inline-block;
+  font-size: 0.95rem;
+}
