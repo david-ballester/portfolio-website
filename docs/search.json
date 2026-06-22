@@ -5,5 +5,33 @@
     "title": "David Ballester",
     "section": "",
     "text": "David Ballester\n\nM.S. Business Analytics | B.S. Statistics\nResearch • Data Science • Machine Learning\nI am a statistician and business analytics graduate with interests in research, machine learning, statistical modeling, and data driven decision making.\nMy work focuses on applying quantitative methods, programming, and modern data science techniques to answer meaningful research and business questions and solve real world problems.\nExplore my research projects, technical work, and professional experience through the links above."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "David Ballester",
+    "section": "",
+    "text": "This page highlights research projects involving biostatistics, clinical research, statistical modeling, and applied data analysis.\n\n\n\nRole: Biostatistics Research Intern\nTools: R, RStudio, Excel\nFocus: Clinical research, medical devices, statistical analysis\nAnalyzed cervical disc replacement devices to evaluate how fixation features and device attributes contributed to stability and patient-related outcomes. This work involved data collection, statistical analysis, visualization, and interpretation of complex medical data.\nMethods used: regression, t-tests, ANOVA, Taguchi’s method, data visualization\nOutcome: Co-authored a manuscript submitted to The Spine Journal.\n\n\n\nTools: R, RStudio, GitHub\nFocus: Regression analysis, health economics, statistical modeling\nCollaborated on a statistical analysis examining how median age relates to total health spending across countries. The project used regression modeling to explore population-level trends in healthcare expenditures.\nMethods used: regression analysis, data visualization, statistical communication\nView GitHub Repository"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "David Ballester",
+    "section": "",
+    "text": "This page highlights technical, analytical, and industry projects involving data science, machine learning, statistical modeling, and business analytics.\n\n\n\nOrganization: Oracle\nStatus: In Progress\nIndustry-sponsored project completed as part of the Cal Poly M.S. Business Analytics program.\nProject description coming soon.\n\n\n\nOrganization: NVIDIA\nStatus: In Progress\nIndustry-sponsored project completed as part of the Cal Poly M.S. Business Analytics program.\nProject description coming soon.\n\n\n\nTools: R, RStudio, GitHub\nStatistical modeling project analyzing the relationship between median age and healthcare spending across countries.\nSkills: Regression analysis, data visualization, statistical communication\nGitHub: https://github.com/dle-79/stat331-final-project\n\n\n\nStatus: Placeholder\nAdditional machine learning, data science, and analytics projects will be added here."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "David Ballester",
+    "section": "",
+    "text": "A brief overview of my education, research experience, technical skills, awards, and leadership experience.\nDownload Full CV\n\n\n\n\nM.S. Business Analytics\nExpected June 2026\nRelevant Coursework\n\nStrategic Marketing Analytics\nEssential Statistics for Business Analytics\nEconometrics and Data Analysis\nComputing and Machine Learning for Business Analytics\nData Analytics and Mining for Business\nData Management for Business Analytics\nCollaborative Industry Project\n\nB.S. Statistics\nJune 2025\nMinor: Actuarial Preparation\nRelevant Coursework\n\nDesign and Analysis of Experiments\nStatistical Computing with R\nStatistical Computing with SAS\nStatistical Communication\nFundamentals of Computer Science\nFinancial Accounting\nFundamentals of Corporate Finance\n\n\n\n\n\n\n\nLuskin Orthopedic Institute\nJune 2024 – March 2025\n\nCollaborated with researchers and physicians from UCLA and USC on clinical research projects.\nConducted data collection, visualization, and statistical analysis for medical device studies.\nApplied regression, t-tests, ANOVA, and Taguchi’s method.\nContributed to a manuscript submitted to The Spine Journal.\n\n\n\n\n\n\nR Python SQL SAS JMP Excel GitHub Machine Learning Statistical Modeling Data Visualization\n\n\n\n\n\n\nDean’s List Recipient\nNational Hispanic Merit Scholar\nSCP MSBA Merit Scholarship\nBrett and Leslie Eldridge Award\nAdditional awards placeholder\n\n\n\n\n\n\n\n\n\nFounder\nRisk Management Chair\nFinancial Executive\n\n\n\n\nSelected by faculty to support graduate students in statistics coursework.\n\n\n\nOrganized workshops for Business Analytics graduate students."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "David Ballester",
+    "section": "",
+    "text": "Thank you for visiting my portfolio.\nI am always interested in discussing research opportunities, graduate studies, data science projects, clinical research, and professional collaborations.\n\n\nEmail\ndavidaballester@gmail.com\nLinkedIn\nhttps://www.linkedin.com/in/davidaballester/\nLocation\nFullerton, California\n\n\n\n\nClinical Research\nBiostatistics\nData Science\nMachine Learning\nStatistical Modeling\nHealth Analytics\n\nI look forward to connecting with researchers, employers, and fellow students who share similar interests."
   }
 ]
