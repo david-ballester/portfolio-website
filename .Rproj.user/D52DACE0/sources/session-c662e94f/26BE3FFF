@@ -3,7 +3,7 @@
     "path": "~/Desktop/Portfolio Website/resume.qmd",
     "project_path": "resume.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2716670387",
     "contents": "",
     "dirty": false,
     "created": 1782162080231.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
+        "cursorPosition": "7,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1782248229,
+    "lastKnownWriteTime": 1782249217,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1782248229632,
+    "last_content_update": 1782249217294,
     "read_only": false,
     "read_only_alternatives": []
 }

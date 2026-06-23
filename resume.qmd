@@ -1,18 +1,8 @@
 # Resume
 
-A summary of my education, research experience, technical skills, professional experience, and leadership activities.
+A summary of my education, research experience, professional experience, technical expertise, and leadership activities.
 
-## Documents
-
-::: {.cv-card}
-
-### Download Documents
-
-📄 [Download Resume](resume_placeholder.pdf)
-
-📄 [Download CV](cv_placeholder.pdf)
-
-:::
+[📄 Download Full CV](David%20Ballester%20CV.pdf){.btn .btn-primary}
 
 ## Education
 
@@ -21,7 +11,7 @@ A summary of my education, research experience, technical skills, professional e
 ### California Polytechnic State University, San Luis Obispo
 
 **Master of Science in Business Analytics**  
-June 2026
+Expected June 2026
 
 - 3.97 GPA
 - 2026 Brett and Leslie Eldridge Award
@@ -86,13 +76,44 @@ June 2025
 - Applied regression, t-tests, ANOVA, and Taguchi's Method.
 - Contributed to a peer-reviewed publication in *Spine*.
 
-### Budget Analyst | Pelayo LLC
+:::
 
-**2017 – Present (Seasonal)**
+## Professional Experience
+
+::: {.cv-card}
+
+### Teaching & Learning Assistant
+
+**California Polytechnic State University**  
+August 2025 – June 2026
+
+- Selected by faculty to support graduate students in Business Analytics coursework.
+- Led tutoring sessions and provided academic support across quantitative and technical subjects.
+- Organized professional development workshops to foster collaboration and applied learning.
+
+### Budget Analyst
+
+**Pelayo LLC**  
+2017 – Present (Seasonal)
 
 - Maintain financial records and reporting for a privately owned LLC.
 - Support budgeting and financial decision-making through periodic financial analysis.
-- Improved expense tracking processes through Excel-based reporting systems.
+- Improved financial reporting processes through Excel-based tracking systems.
+
+### Crew Member
+
+**McDonald's**  
+June 2020 – December 2023
+
+- Developed teamwork, communication, and customer service skills in a fast-paced environment.
+
+### Maintenance Technician
+
+**Pelayo LLC**  
+January 2016 – January 2020
+
+- Assisted with property maintenance and operations.
+- Demonstrated reliability, problem-solving, and attention to detail.
 
 :::
 
@@ -122,10 +143,13 @@ Presented developer engagement analytics, behavioral archetypes, and retention i
 
 :::
 
-## Technical Skills
+## Skills
+
+::: {.cv-card}
+
+### Technical Skills
 
 ::: {.skill-list}
-
 `R`
 `Python`
 `SQL`
@@ -142,6 +166,39 @@ Presented developer engagement analytics, behavioral archetypes, and retention i
 `Data Mining`
 `Experimental Design`
 `Web Scraping`
+:::
+
+### Analytical Skills
+
+::: {.skill-list}
+`Statistical Modeling`
+`Machine Learning`
+`Forecasting`
+`Data Analysis`
+`Data Mining`
+`Experimental Design`
+`Business Analytics`
+`Customer Segmentation`
+`Survival Analysis`
+`Healthcare Analytics`
+`Critical Thinking`
+:::
+
+### Professional Skills
+
+::: {.skill-list}
+`Adaptability`
+`Collaboration`
+`Communication`
+`Attention to Detail`
+`Organization`
+`Leadership`
+`Initiative`
+`Creativity`
+`Problem Solving`
+`Positive Attitude`
+`Eager to Learn`
+:::
 
 :::
 
@@ -165,13 +222,6 @@ Presented developer engagement analytics, behavioral archetypes, and retention i
 - Founder
 - Financial Executive
 - Risk Management Chair
-
-### Teaching & Learning Assistant
-
-California Polytechnic State University
-
-- Selected by faculty to support graduate students in coursework.
-- Organized professional development workshops for Business Analytics graduate students.
 
 ### Society Memberships
 
