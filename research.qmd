@@ -5,28 +5,43 @@ This page highlights research projects involving biostatistics, clinical researc
 ::: {.research-grid}
 
 ::: {.research-card}
-## The Effect of Cervical Disc Replacement Fixation Features on Device Stability
+## Design Factors Affecting the Fixation of Cervical Disc Replacements: A Biomechanical Analysis
 
-**Role:** Biostatistics Research Intern  
-**Tools:** R, RStudio, Excel  
-**Focus:** Clinical research, medical devices, statistical analysis
+**Role:** Biostatistician Research Intern
 
-Analyzed cervical disc replacement devices to evaluate how fixation features and device attributes contributed to stability and patient-related outcomes. This work involved data collection, statistical analysis, visualization, and interpretation of complex medical data.
+**Organization:** Luskin Orthopedic Institute
 
-**Methods used:** regression, t-tests, ANOVA, Taguchi’s method, data visualization
+**Tools:** R, RStudio, Excel
 
-**Outcome:** Co-authored a manuscript submitted to *The Spine Journal*.
+**Focus:** Clinical Research, Biomechanics, Medical Devices, Biostatistics
+
+Collaborated with researchers and physicians from UCLA and USC to investigate how design characteristics of cervical disc replacement devices influence fixation and long-term stability.
+
+The project involved evaluating five cervical disc replacement devices and identifying which design features contributed most strongly to stability, reduced movement, and improved patient outcomes. Responsibilities included data collection, statistical analysis, visualization, and interpretation of complex biomechanical data.
+
+**Methods Used:** Regression, t-tests, ANOVA, Taguchi's Method, Data Visualization
+
+**Outcome:** Published co-author in *Spine* (2025).
+
+### Publication
+
+Wahbeh JM, Ballester DA, Ebramzadeh E, Sangiorgio SN. *Design Factors Affecting the Fixation of Cervical Disc Replacements: A Biomechanical Analysis.* Spine (Phila Pa 1976). 2025 Aug 1;50(15):E299-E307.
 :::
 
 ::: {.research-card}
 ## Effect of Median Age on Total Health Spending
 
-**Tools:** R, RStudio, GitHub  
-**Focus:** Regression analysis, health economics, statistical modeling
+**Tools:** R, RStudio, GitHub
 
-Collaborated on a statistical analysis examining how median age relates to total health spending across countries. The project used regression modeling to explore population-level trends in healthcare expenditures.
+**Focus:** Health Economics, Regression Analysis, Statistical Modeling
 
-**Methods used:** regression analysis, data visualization, statistical communication
+Conducted a statistical analysis investigating the relationship between population median age and healthcare spending across countries worldwide.
+
+The project explored how demographic characteristics influence healthcare expenditures and applied regression modeling techniques to identify meaningful trends within international health data.
+
+**Methods Used:** Regression Analysis, Data Visualization, Statistical Communication
+
+### GitHub Repository
 
 [View GitHub Repository](https://github.com/dle-79/stat331-final-project)
 :::

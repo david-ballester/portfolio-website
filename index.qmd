@@ -8,17 +8,12 @@
 
 ### M.S. Business Analytics | B.S. Statistics
 
-Research • Data Science • Machine Learning
+**Data Science • Machine Learning • Clinical Research • Business Analytics**
 
-I am a statistician and business analytics graduate with interests in
-research, machine learning, statistical modeling, and data driven
-decision making.
+I am an analytics and statistics professional passionate about using data to support evidence-based decision making in business and healthcare settings.
 
-My work focuses on applying quantitative methods, programming, and modern
-data science techniques to answer meaningful research and business questions and solve
-real world problems.
+My experience includes clinical research, customer churn analysis, developer engagement analytics, statistical modeling, machine learning, forecasting, dashboard development, and data visualization.
 
-Explore my research projects, technical work, and professional experience
-through the links above.
+I have worked on applied analytics projects with Oracle and NVIDIA, contributed to published clinical research in spine biomechanics, and enjoy building reproducible, data-driven solutions that turn complex data into meaningful insights.
 :::
 :::

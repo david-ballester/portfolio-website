@@ -1,31 +1,49 @@
 # Resume
 
-A brief overview of my education, research experience, technical skills, awards, and leadership experience.
+A summary of my education, research experience, technical skills, professional experience, and leadership activities.
 
-[Download Full CV](David_Ballester_CV.pdf){.btn .btn-primary}
+## Documents
+
+::: {.cv-card}
+
+### Download Documents
+
+📄 [Download Resume](resume_placeholder.pdf)
+
+📄 [Download CV](cv_placeholder.pdf)
+
+:::
 
 ## Education
 
 ::: {.cv-card}
+
 ### California Polytechnic State University, San Luis Obispo
 
-**M.S. Business Analytics**  
-Expected June 2026
+**Master of Science in Business Analytics**  
+June 2026
+
+- 3.97 GPA
+- 2026 Brett and Leslie Eldridge Award
 
 **Relevant Coursework**
 
-- Strategic Marketing Analytics
-- Essential Statistics for Business Analytics
-- Econometrics and Data Analysis
 - Computing and Machine Learning for Business Analytics
+- Econometrics and Data Analysis
 - Data Analytics and Mining for Business
 - Data Management for Business Analytics
+- Strategic Marketing Analytics
 - Collaborative Industry Project
 
-**B.S. Statistics**  
+---
+
+**Bachelor of Science in Statistics**  
 June 2025
 
 **Minor:** Actuarial Preparation
+
+- 3.50 GPA
+- Dean's List Recipient
 
 **Relevant Coursework**
 
@@ -35,52 +53,128 @@ June 2025
 - Statistical Communication
 - Fundamentals of Computer Science
 - Financial Accounting
-- Fundamentals of Corporate Finance
+- Corporate Finance
+
 :::
 
-## Research Experience
+## Research & Analytics Experience
 
 ::: {.cv-card}
-### Biostatistician Intern  
-**Luskin Orthopedic Institute**  
-June 2024 – March 2025
 
-- Collaborated with researchers and physicians from UCLA and USC on clinical research projects.
+### Data Analytics Consultant | Oracle
+
+**January 2026 – March 2026**
+
+- Analyzed customer usage and transaction data to identify key drivers of customer churn.
+- Applied clustering and survival analysis techniques to develop personalized retention strategies.
+- Developed dashboards and presented actionable business recommendations to Oracle leadership.
+
+### Data Analytics Consultant | NVIDIA
+
+**January 2026 – March 2026**
+
+- Analyzed large-scale developer activity data to identify engagement patterns and behavioral trends.
+- Applied clustering techniques to identify developer archetypes and organizational-level insights.
+- Built interactive dashboards and presented findings to NVIDIA leadership.
+
+### Biostatistician Intern | Luskin Orthopedic Institute
+
+**June 2024 – March 2025**
+
+- Collaborated with UCLA and USC researchers on clinical research projects.
 - Conducted data collection, visualization, and statistical analysis for medical device studies.
-- Applied regression, t-tests, ANOVA, and Taguchi’s method.
-- Contributed to a manuscript submitted to *The Spine Journal*.
+- Applied regression, t-tests, ANOVA, and Taguchi's Method.
+- Contributed to a peer-reviewed publication in *Spine*.
+
+### Budget Analyst | Pelayo LLC
+
+**2017 – Present (Seasonal)**
+
+- Maintain financial records and reporting for a privately owned LLC.
+- Support budgeting and financial decision-making through periodic financial analysis.
+- Improved expense tracking processes through Excel-based reporting systems.
+
+:::
+
+## Publications & Presentations
+
+::: {.cv-card}
+
+### Peer-Reviewed Publication
+
+Wahbeh JM, Ballester DA, Ebramzadeh E, Sangiorgio SN.
+
+*Design Factors Affecting the Fixation of Cervical Disc Replacements: A Biomechanical Analysis.*
+
+Spine (Phila Pa 1976). 2025 Aug 1;50(15):E299-E307.
+
+### Presentations
+
+**Churn Rate Analysis and Actionable Insights**  
+Oracle | 2026
+
+Presented customer retention analysis and strategic recommendations to Oracle leadership.
+
+**Understanding the NVIDIA Developer Community**  
+NVIDIA | 2026
+
+Presented developer engagement analytics, behavioral archetypes, and retention insights to NVIDIA stakeholders.
+
 :::
 
 ## Technical Skills
 
 ::: {.skill-list}
-`R` `Python` `SQL` `SAS` `JMP` `Excel` `GitHub` `Machine Learning` `Statistical Modeling` `Data Visualization`
+
+`R`
+`Python`
+`SQL`
+`SAS`
+`JMP`
+`Tableau`
+`AWS`
+`Git`
+`GitHub`
+`Excel`
+`Machine Learning`
+`Statistical Modeling`
+`Data Visualization`
+`Data Mining`
+`Experimental Design`
+`Web Scraping`
+
 :::
 
 ## Awards & Honors
 
 ::: {.cv-card}
-- Dean’s List Recipient
-- National Hispanic Merit Scholar
+
+- 2026 Brett and Leslie Eldridge Award
+- National Hispanic Merit
 - SCP MSBA Merit Scholarship
-- Brett and Leslie Eldridge Award
-- Additional awards placeholder
+- Dean's List Recipient
+
 :::
 
 ## Leadership & Service
 
 ::: {.cv-card}
+
 ### Sigma Phi Epsilon, California Tau Chapter
 
 - Founder
-- Risk Management Chair
 - Financial Executive
+- Risk Management Chair
 
-### Graduate Statistics Tutor
+### Teaching & Learning Assistant
 
-Selected by faculty to support graduate students in statistics coursework.
+California Polytechnic State University
 
-### Professional Development Workshops
+- Selected by faculty to support graduate students in coursework.
+- Organized professional development workshops for Business Analytics graduate students.
 
-Organized workshops for Business Analytics graduate students.
+### Society Memberships
+
+- Society for the Advancement of Chicanos and Native Americans in Science (SACNAS)
+
 :::

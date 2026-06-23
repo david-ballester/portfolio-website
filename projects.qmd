@@ -1,31 +1,43 @@
 # Projects
 
-This page highlights technical, analytical, and industry projects involving data science, machine learning, statistical modeling, and business analytics.
+This page highlights technical, analytical, and industry projects involving data science, machine learning, statistical modeling, business analytics, and dashboard development.
 
 ::: {.research-grid}
 
 ::: {.research-card}
-## Oracle Industry Project
+## Churn Rate Analysis and Actionable Insights
 
 **Organization:** Oracle
 
-**Status:** In Progress
+**Role:** Data Analytics Consultant
 
-Industry-sponsored project completed as part of the Cal Poly M.S. Business Analytics program.
+**Tools:** Python, R, Clustering, Survival Analysis, Dashboard Development
 
-*Project description coming soon.*
+Analyzed customer usage and transaction data to identify key drivers of customer churn across multiple client segments.
+
+Applied clustering and survival analysis techniques to develop personalized retention strategies and uncover high-risk customer groups. The project focused on transforming behavioral data into actionable business recommendations.
+
+**Skills:** Customer Analytics, Survival Analysis, Clustering, Data Visualization, Dashboard Development
+
+**Outcome:** Presented findings and strategic recommendations to Oracle leadership, including retention bundle offerings and AI-driven pricing initiatives.
 :::
 
 ::: {.research-card}
-## NVIDIA Industry Project
+## Understanding the NVIDIA Developer Community
 
 **Organization:** NVIDIA
 
-**Status:** In Progress
+**Role:** Data Analytics Consultant
 
-Industry-sponsored project completed as part of the Cal Poly M.S. Business Analytics program.
+**Tools:** Python, R, Clustering, Interactive Dashboards
 
-*Project description coming soon.*
+Analyzed large-scale developer activity data to identify engagement patterns, customer segmentation opportunities, and behavioral trends across NVIDIA's developer ecosystem.
+
+Developed developer-level and organization-level analytics dashboards to track lifecycle activity, engagement metrics, and retention patterns. Applied clustering techniques to identify distinct developer archetypes and organizational behaviors.
+
+**Skills:** Machine Learning, Customer Segmentation, Dashboard Development, Behavioral Analytics, Data Visualization
+
+**Outcome:** Presented insights and recommendations to NVIDIA leadership focused on developer retention, onboarding pathways, and high-value user identification.
 :::
 
 ::: {.research-card}
@@ -33,19 +45,27 @@ Industry-sponsored project completed as part of the Cal Poly M.S. Business Analy
 
 **Tools:** R, RStudio, GitHub
 
-Statistical modeling project analyzing the relationship between median age and healthcare spending across countries.
+**Focus:** Health Economics, Regression Analysis, Statistical Modeling
 
-**Skills:** Regression analysis, data visualization, statistical communication
+Conducted a statistical analysis investigating the relationship between population median age and healthcare spending across countries worldwide.
 
-**GitHub:** https://github.com/dle-79/stat331-final-project
+The project explored how demographic characteristics influence healthcare expenditures and applied regression modeling techniques to identify meaningful trends within international health data.
+
+**Skills:** Regression Analysis, Data Visualization, Statistical Communication
+
+### GitHub Repository
+
+[View GitHub Repository](https://github.com/dle-79/stat331-final-project)
 :::
 
 ::: {.research-card}
-## Future Project
+## Future Machine Learning Projects
 
-**Status:** Placeholder
+**Status:** In Development
 
-Additional machine learning, data science, and analytics projects will be added here.
+Additional machine learning, forecasting, dashboard, and data science projects will be added here as they are completed.
+
+Potential future topics include predictive modeling, forecasting, classification systems, web scraping projects, cloud analytics, and interactive data applications.
 :::
 
 :::

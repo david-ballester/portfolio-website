@@ -12,6 +12,9 @@ I am always interested in discussing research opportunities, graduate studies, d
 **LinkedIn**  
 https://www.linkedin.com/in/davidaballester/
 
+**GitHub**  
+https://github.com/david-ballester
+
 **Location**  
 Fullerton, California
 
@@ -24,4 +27,6 @@ Fullerton, California
 - Statistical Modeling
 - Health Analytics
 
-I look forward to connecting with researchers, employers, and fellow students who share similar interests.
+I am particularly interested in opportunities involving clinical research, biostatistics, machine learning, healthcare analytics, and applied data science.
+
+Whether you are a researcher, employer, graduate program representative, or fellow student, I welcome opportunities to connect and collaborate.
